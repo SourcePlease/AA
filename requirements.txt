@@ -12,3 +12,5 @@ motor
 dnspython
 opencv-python-headless
 aiofiles
+flask==2.0.1
+gunicorn==21.0.0
