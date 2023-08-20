@@ -13,4 +13,5 @@ dnspython
 opencv-python-headless
 aiofiles
 flask==2.0.1
+flask_restful
 gunicorn==21.0.0
